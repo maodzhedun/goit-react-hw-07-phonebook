@@ -31,5 +31,8 @@ export const FormEl = styled.div`
     background-color: rgb(111, 142, 79);
     border: none;
     margin-top: 30px;
+        &:hover {
+      scale: 1.01;
+    }Ы
   }
 `;
